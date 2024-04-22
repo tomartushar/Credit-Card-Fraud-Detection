@@ -14,7 +14,7 @@ The dataset is available on [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/cre
 * Perform basic data exploration.
 * Check for missing values.
 * Check for outliers.
-* Perform univariate analysis (using ANOVA technique).
+* Perform univariate analysis (using t-test).
 * Perform bivariate analysis.
 
 ## Utilities
