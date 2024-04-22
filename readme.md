@@ -31,7 +31,7 @@ The dataset is available on [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/cre
 
 ## Results
 
-<center>
+<div align ="center">
 
 | Model               | F1-score | AUPR |
 |---------------------|----------|------|
@@ -40,4 +40,4 @@ The dataset is available on [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/cre
 | Random Forest       | 0.72     | 0.63 |
 | XGBoost             | 0.67     | 0.61 |
   
-</center>
+</div>
